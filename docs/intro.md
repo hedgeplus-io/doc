@@ -3,9 +3,9 @@ sidebar_position: 1
 slug: / 
 ---
 
-# HedgePlus
+# Hinges
 
-:::tip HedgePlus ❤️ Feedback
+:::tip Hinges ❤️ Feedback
 
 If you have any ideas to improve the docs please make an [issue](https://github.com/hedgeplus-io/docs/issues/new), discuss in the [Discord](https://discord.gg/XUG5CHEH)
 
@@ -14,31 +14,26 @@ If you have any ideas to improve the docs please make an [issue](https://github.
 
 ## Getting Started
 
-[HedgePlus](https://hedgeplus.io/) has decentralized financial (DeFi) tools and services accessible to anyone and made makes things easy. It aims to break down barriers by helping you earn using decentralized finance and using your crypto to access funds with zero cost loans.  Use this documentation as your guide into the Hedgeplus ecosystem!
+[Hinges](https://hinges.io/) has decentralized financial (DeFi) tools and services accessible to anyone and made makes things easy. It aims to break down barriers by helping you earn using decentralized finance and using your crypto to access funds with zero cost loans.  Use this documentation as your guide into the Hedgeplus ecosystem!
 
-### HedgePlus Basics
+### Hinges Basics
 
-Learn the HedgePlus Basics to get an overview of our mission, vision, whitepapers, and resources.
-
-- [What is Hedgplus?](learn/why-celo)
-- [Showcase](/showcase)
-- [Explorer](https://explorer.celo.org/)
+Learn the Hinges Basics to get an overview of our mission, vision, whitepapers, and resources.
 
 
-### Use HedgePlus
 
-Get up and running using tools in the Hedgeplus ecosystem.
+### Use Hinges
 
-- [Developers](developer-guide/overview)
-- [Validators](validator-guide/overview)
+Get up and running using tools in the Hinges ecosystem.
 
 
-### Explore HedgePlus
 
-Explore Hedgeplus data to view the reserve, network, dapps, and additional analytics.
 
-- [HedgePlus Analytics](https://explorer.celo.org/stats)
-- [Hedgeplus Reserve](https://celoreserve.org/)
+### Explore Hinges
+
+Explore Hinges data to view the reserve, network, dapps, and additional analytics.
+
+
 
 
 
