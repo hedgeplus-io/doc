@@ -6,7 +6,7 @@ sidebar_position: 5
 
 # HedgePlus Roadmap
 
-<!-- markdownlint-disable MD036 -->
+
 
 ### 1. River phase
 
@@ -68,7 +68,7 @@ sidebar_position: 5
 * Partnerships and Integrations
 * HedgePlus Ecosystem Growth Acceleration
 
-![roadmap](https://www.hedgeplus.io/images/roadmap.svg)
+
     
 
 
